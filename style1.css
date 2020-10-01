@@ -1,0 +1,32 @@
+.abcd{
+    background-color: darkslateblue;
+    border-radius:60px;
+    text-align: center;
+
+}
+body{
+    background-color:lightpink;
+    height:auto;
+    width:500;
+    border-radius:20%;
+}
+#ab:hover{
+    background-color: cyan;
+    height:350px;
+    width:350 px;
+    content:url('https://th.bing.com/th/id/OIP.LwlJaKDX3VHMh51qBvPOXgHaEK?w=312&h=180&c=7&o=5&dpr=1.25&pid=1.7');
+}
+
+#abc{
+   height:40px;
+    width:100px;
+    background-color:green;
+    border-radius:10px; 
+}
+#abc:hover{
+   height:200px;
+   width:180px;
+  background-color:red;
+  border-radius:40%;
+
+}
